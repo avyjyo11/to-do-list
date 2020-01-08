@@ -1,0 +1,30 @@
+.todo-list ul li {
+  list-style-type: none;
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.top-bar {
+  background-color: #fff;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 1px #333;
+}
+
+.logo-div {
+  padding-top: 18px;
+  font-size: 26px;
+  font-weight: bolder;
+  float: left;
+  width: 19%;
+}
+
+.navbar-div {
+  float: right;
+  width: 70%;
+  text-align: center;
+}
+
+.todo-list-div{
+  box-shadow: 1px 2px 4px 1px #666;
+}

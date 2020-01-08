@@ -1,0 +1,18 @@
+.navbar ul li {
+  border-top: 5px solid #fff;
+  display: block;
+  float: left;
+  list-style-type: none;
+  padding: 20px 40px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.nav-active {
+  border-top: 2px solid teal;
+}
+
+.navbar {
+  width: 100%;
+  text-align: center;
+}

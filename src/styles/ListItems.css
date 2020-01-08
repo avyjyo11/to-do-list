@@ -1,0 +1,39 @@
+.list-item-check {
+  float: left;
+  color: rgb(73, 73, 73);
+  text-decoration: line-through;
+}
+
+.list-item-uncheck {
+  float: left;
+}
+
+.check-box {
+  float: right;
+  width: 110px;
+  position: relative;
+}
+
+.todo-list {
+  background-color: #fff;
+  padding: 10px 20px;
+  border-bottom: 1px solid black;
+}
+
+.checkbox-style {
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+}
+
+.delete-btn {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 40px;
+  width: 60px;
+  height: 26px;
+  background-color: teal;
+  color: white;
+  border: none;
+}
